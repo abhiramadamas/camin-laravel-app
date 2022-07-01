@@ -60,3 +60,15 @@ Redirect ke tampilan awal
 ![delete succes](/img/Page4Done.png)
 
 ### Fitur 5: fitur flash message setelah sukses melakukan suatu aksi
+
+Flash message Create
+
+![Flash Create](/img/Fitur5Create.png)
+
+Flash message Update
+
+![Flash Update](/img/Fitur5Update.png)
+
+Flash message Delete
+
+![Flash Delete](/img/Fitur5Delete.png)
