@@ -81,7 +81,7 @@ class BarangController extends Controller
             return redirect()
                 ->route('barang.index')
                 ->with([
-                    'success' => 'barang baru berhasil di create'
+                    'success' => 'barang baru berhasil di update'
                 ]);
         } else {
             return redirect()
